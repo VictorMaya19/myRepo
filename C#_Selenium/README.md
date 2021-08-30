@@ -7,3 +7,5 @@
 ### TCGPlayer Bug.docx
 ##### This doc contains screenshots from the test run.  The 'As low as' price on the search results page does not match the individual card page.
 
+### Empty option in job search dropdown.docx
+##### Screenshots of job search dropdown
